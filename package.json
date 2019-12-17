@@ -5,7 +5,7 @@
   "main": "countdown/index.js",
   "homepage": "https://jinju2828.github.io/2020countdown",
   "scripts": {
-    "deploy": "gh-pages -d countdown"
+    "deploy": "countdown/node_modules/.bin/gh-pages -d countdown"
   },
   "author": "Jinju Chu",
   "license": "ISC",
