@@ -1,5 +1,5 @@
 {
-  "name": "countdown",
+  "name": "2020countdown",
   "version": "1.0.0",
   "description": "countdown to new year",
   "main": "countdown/index.js",
