@@ -1,9 +1,9 @@
 {
-  "name": "2020countdown",
+  "name": "countdown",
   "version": "1.0.0",
   "description": "countdown to new year",
   "main": "countdown/index.js",
-  "homepage": "https://jinju2828.github.io/2020countdown",
+  "homepage": "https://jinju2828.github.io/newyear_countdown",
   "scripts": {
     "deploy": "gh-pages -d countdown"
   },
